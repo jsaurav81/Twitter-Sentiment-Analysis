@@ -19,4 +19,4 @@ The visualization includes bar chart and a word cloud that shows.
 
 
 
-If you have any issues then contact me on: rjtmehta99@gmail.com
+If you have any issues then contact me on: jsaurav81@gmail.com
